@@ -1,3 +1,5 @@
+https://www.putyy.com/articles/19  例子
+
 # spx2wav.jar 使用说明 [仅支持Linux环境]
 功能介绍：将.speex文件解码为*.wav文件
 
@@ -77,5 +79,6 @@ sudo ldconfig
 
 ## 参考文档
 https://github.com/guoguo11/JSpeex-util
+
 
 Author: zhaochangjin@zving.com
